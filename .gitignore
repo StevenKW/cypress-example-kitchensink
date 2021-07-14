@@ -1,6 +1,7 @@
 node_modules
 *.log
 *.aes
+cypress/integration/2-advanced-examples
 cypress/screenshots
 cypress/videos
 cypress/logs
